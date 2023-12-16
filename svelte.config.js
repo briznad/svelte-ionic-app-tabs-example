@@ -8,8 +8,8 @@ const config = {
 
 	kit : {
 		adapter : staticAdapter({
-			pages : 'dist',
-			assets : 'dist',
+			pages : 'docs',
+			assets : 'docs',
 			fallback : 'index.html',
 		}),
 	}
